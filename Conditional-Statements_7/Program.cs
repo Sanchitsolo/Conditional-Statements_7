@@ -15,7 +15,7 @@ Console.WriteLine("Please enter a Sales Amount ...");
 */
 try
 {
-    // This variable will gather the user input
+    // This variable will gather the user
     string input = Console.ReadLine();
     /* 
         This variable will be used to store sales
